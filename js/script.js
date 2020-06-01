@@ -1,1 +1,3 @@
-console.log(typeof ('q' + 5));
+"use strict";
+
+console.log(typeof ("q" + 5));
