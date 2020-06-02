@@ -17,6 +17,6 @@ let appData = {
   income: '',
   savings: false,
 };
-console.log(mandatoryExpenses + ' : ' + howMuch);
+// console.log(mandatoryExpenses + ' : ' + howMuch);
 let budgetDay = money / monthDay;
 alert('Бюджет на 1 день составляет ' + budgetDay);
